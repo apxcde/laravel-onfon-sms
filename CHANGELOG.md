@@ -4,7 +4,7 @@ All notable changes to `onfon-sms` will be documented in this file.
 
 # 1.2.0 - 2021-12-27
 
-- Move from codekite to nineafrica package.
+- Move from nineafrica to apxcde package.
 
 ## 1.1.0 - 2021-10-15
 

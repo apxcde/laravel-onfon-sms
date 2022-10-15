@@ -13,6 +13,7 @@ composer require apxcde/onfon-sms
 ### Publish the config file
 
 You can publish the config file with:
+
 ```bash
 php artisan vendor:publish --provider="Apxcde\OnfonSms\OnfonSmsServiceProvider" --tag="onfon-sms-config"
 ```
@@ -124,5 +125,5 @@ If you discover any security-related issues, please email erick@nineafrica.com i
 
 ## Credits
 
-- [Nineafrica LTD](https://github.com/nineafrica)
+- [ApexCode](https://github.com/apxcde)
 - [All Contributors](../../contributors)
