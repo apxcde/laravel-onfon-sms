@@ -1,12 +1,12 @@
 {
-    "name": "apxcde/onfon-sms",
+    "name": "apxcde/laravel-onfon-sms",
     "description": "Add OnFon SMS to your laravel web application",
     "keywords": [
         "apxcde",
         "laravel",
         "onfon-sms"
     ],
-    "homepage": "https://github.com/apxcde/onfon-sms",
+    "homepage": "https://github.com/apxcde/laravel-onfon-sms",
     "authors": [
         {
             "name": "ApexCode",
