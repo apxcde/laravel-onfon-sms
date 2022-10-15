@@ -1,16 +1,16 @@
 {
-    "name": "nineafrica/onfon-sms",
+    "name": "apxcde/onfon-sms",
     "description": "Add OnFon SMS to your laravel web application",
     "keywords": [
-        "nineafrica",
+        "apxcde",
         "laravel",
         "onfon-sms"
     ],
-    "homepage": "https://github.com/nineafrica/onfon-sms",
+    "homepage": "https://github.com/apxcde/onfon-sms",
     "authors": [
         {
-            "name": "Nineafrica LTD",
-            "email": "packages@nineafrica.com",
+            "name": "ApexCode",
+            "email": "packages@apexcode.dev",
             "role": "Developer"
         }
     ],
@@ -30,13 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Nineafrica\\OnfonSms\\": "src",
-            "Nineafrica\\OnfonSms\\Database\\Factories\\": "database/factories"
+            "Apxcde\\OnfonSms\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Nineafrica\\OnfonSms\\Tests\\": "tests"
+            "Apxcde\\OnfonSms\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -53,10 +52,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nineafrica\\OnfonSms\\OnfonSmsServiceProvider"
+                "Apxcde\\OnfonSms\\OnfonSmsServiceProvider"
             ],
             "aliases": {
-                "OnfonSms": "Nineafrica\\OnfonSms\\OnfonSmsFacade"
+                "OnfonSms": "Apxcde\\OnfonSms\\OnfonSmsFacade"
             }
         }
     },

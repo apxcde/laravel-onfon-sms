@@ -1,8 +1,8 @@
 <?php
 
-namespace Nineafrica\OnfonSms;
+namespace Apxcde\OnfonSms;
 
-use Nineafrica\OnfonSms\Exceptions\InvalidConfiguration;
+use Apxcde\OnfonSms\Exceptions\InvalidConfiguration;
 
 class BulkSMS
 {

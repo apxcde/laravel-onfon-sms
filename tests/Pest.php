@@ -1,5 +1,5 @@
 <?php
 
-use Nineafrica\OnfonSms\Tests\TestCase;
+use Apxcde\OnfonSms\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);

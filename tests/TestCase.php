@@ -1,9 +1,9 @@
 <?php
 
-namespace Nineafrica\OnfonSms\Tests;
+namespace Apxcde\OnfonSms\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Nineafrica\OnfonSms\OnfonSmsServiceProvider;
+use Apxcde\OnfonSms\OnfonSmsServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra

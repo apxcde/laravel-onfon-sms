@@ -1,12 +1,9 @@
 <?php
 
-namespace Nineafrica\OnfonSms;
+namespace Apxcde\OnfonSms;
 
 use Illuminate\Support\Facades\Facade;
 
-/**
- * @see \Nineafrica\OnfonSms\OnfonSms
- */
 class OnfonSmsFacade extends Facade
 {
     protected static function getFacadeAccessor()

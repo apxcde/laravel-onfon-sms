@@ -1,11 +1,11 @@
 <?php
 
-namespace Nineafrica\OnfonSms;
+namespace Apxcde\OnfonSms;
 
 use Illuminate\Notifications\Notification;
-use Nineafrica\OnfonSms\Exceptions\CouldNotSendNotification;
-use Nineafrica\OnfonSms\Exceptions\InvalidConfiguration;
-use Nineafrica\OnfonSms\Helpers\Misc;
+use Apxcde\OnfonSms\Exceptions\CouldNotSendNotification;
+use Apxcde\OnfonSms\Exceptions\InvalidConfiguration;
+use Apxcde\OnfonSms\Helpers\Misc;
 
 class OnfonChannel
 {

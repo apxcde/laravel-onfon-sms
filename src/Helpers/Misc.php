@@ -1,6 +1,6 @@
 <?php
 
-namespace Nineafrica\OnfonSms\Helpers;
+namespace Apxcde\OnfonSms\Helpers;
 
 class Misc
 {

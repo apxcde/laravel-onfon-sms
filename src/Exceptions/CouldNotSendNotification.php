@@ -1,6 +1,6 @@
 <?php
 
-namespace Nineafrica\OnfonSms\Exceptions;
+namespace Apxcde\OnfonSms\Exceptions;
 
 class CouldNotSendNotification extends \Exception
 {

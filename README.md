@@ -7,14 +7,14 @@ This is where your description should go. Limit it to a paragraph or two. Consid
 You can install the package via composer:
 
 ```bash
-composer require nineafrica/onfon-sms
+composer require apxcde/onfon-sms
 ```
 
 ### Publish the config file
 
 You can publish the config file with:
 ```bash
-php artisan vendor:publish --provider="Nineafrica\OnfonSms\OnfonSmsServiceProvider" --tag="onfon-sms-config"
+php artisan vendor:publish --provider="Apxcde\OnfonSms\OnfonSmsServiceProvider" --tag="onfon-sms-config"
 ```
 
 This is the contents of the published config file:

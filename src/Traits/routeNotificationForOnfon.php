@@ -1,8 +1,8 @@
 <?php
 
-namespace Nineafrica\OnfonSms\Traits;
+namespace Apxcde\OnfonSms\Traits;
 
-use Nineafrica\OnfonSms\Helpers\Misc;
+use Apxcde\OnfonSms\Helpers\Misc;
 
 trait routeNotificationForOnfon
 {

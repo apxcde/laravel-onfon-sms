@@ -1,6 +1,6 @@
 <?php
 
-namespace Nineafrica\OnfonSms;
+namespace Apxcde\OnfonSms;
 
 class OnfonMessage
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Nineafrica\OnfonSms\Commands;
+namespace Apxcde\OnfonSms\Commands;
 
 use Illuminate\Console\Command;
 
