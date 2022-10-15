@@ -2,8 +2,8 @@
 
 namespace Apxcde\OnfonSms\Tests;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
 use Apxcde\OnfonSms\OnfonSmsServiceProvider;
+use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra

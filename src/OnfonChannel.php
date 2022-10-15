@@ -2,10 +2,10 @@
 
 namespace Apxcde\OnfonSms;
 
-use Illuminate\Notifications\Notification;
 use Apxcde\OnfonSms\Exceptions\CouldNotSendNotification;
 use Apxcde\OnfonSms\Exceptions\InvalidConfiguration;
 use Apxcde\OnfonSms\Helpers\Misc;
+use Illuminate\Notifications\Notification;
 
 class OnfonChannel
 {
