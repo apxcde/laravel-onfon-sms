@@ -13,7 +13,7 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'Nineafrica\\OnfonSms\\Database\\Factories\\'.class_basename($modelName).'Factory'
+            fn (string $modelName) => 'ApxCde\\OnfonSms\\Database\\Factories\\'.class_basename($modelName).'Factory'
         );
     }
 

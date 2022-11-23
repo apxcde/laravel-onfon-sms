@@ -79,8 +79,8 @@ To use this package, you need to create a notification class, like NewsWasPublis
 ```php
 <?php
 
-use Nineafrica\OnfonSms\OnfonChannel;
-use Nineafrica\OnfonSms\OnfonMessage;
+use Apxcde\OnfonSms\OnfonChannel;
+use Apxcde\OnfonSms\OnfonMessage;
 
 class NewsWasPublished extends Notification
 {
@@ -121,7 +121,7 @@ Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 
 ## Security Vulnerabilities
 
-If you discover any security-related issues, please email erick@nineafrica.com instead of using the issue tracker.
+If you discover any security-related issues, please email erick@apexcode.dev instead of using the issue tracker.
 
 ## Credits
 

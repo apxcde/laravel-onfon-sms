@@ -19,7 +19,7 @@
     verbose="true"
 >
     <testsuites>
-        <testsuite name="Nineafrica Test Suite">
+        <testsuite name="ApexCode Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
